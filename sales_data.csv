@@ -1,0 +1,11 @@
+Product,Category,Price,Quantity,Sales,Region
+Laptop,Electronics,50000,2,100000,North
+Phone,Electronics,20000,5,100000,South
+Shoes,Fashion,3000,10,30000,East
+Shirt,Fashion,1500,15,22500,West
+TV,Electronics,40000,3,120000,North
+Watch,Accessories,5000,8,40000,South
+Bag,Accessories,2000,12,24000,East
+Headphones,Electronics,3000,7,21000,West
+Jeans,Fashion,2500,9,22500,North
+Tablet,Electronics,15000,4,60000,South
